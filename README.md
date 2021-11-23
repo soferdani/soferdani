@@ -8,7 +8,7 @@
 
 
 
-## Im a full stack developer, dog lover and surfer.  
+## Im a full stack developer, dog lover and a surfer.  
 
 - 🔭 I’m currently working on creating cool front end portfolio
 - 💬 Ask me about educate dogs, surfing and development 
