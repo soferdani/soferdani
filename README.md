@@ -10,6 +10,7 @@
 
 ## Im a Junior full stack developer, dog lover and a surfer.  
 
+I'm A Self-learner and I did all the projects with help from Dr google.. I might do great things with your help so please contact me for cooperation 😄
 
 <details>
     <summary>⚡ Technologies</summary>
